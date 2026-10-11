@@ -1,0 +1,13 @@
+[theme]
+base = "dark"
+primaryColor = "#3987e5"
+backgroundColor = "#1a1a19"
+secondaryBackgroundColor = "#232321"
+textColor = "#f0efec"
+
+[client]
+# يخفي زرار Deploy والرسايل الإعلانية اللي فوق
+toolbarMode = "viewer"
+
+[browser]
+gatherUsageStats = false

@@ -1,0 +1,12 @@
+transformers<5
+torch
+sentencepiece
+protobuf
+datasets
+pyarrow
+accelerate
+evaluate
+scikit-learn
+streamlit
+altair
+pandas
